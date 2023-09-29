@@ -1,0 +1,10 @@
+{
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "jsx",
+    "typescriptreact": "jsx"
+  },
+  "html-css-class-completion.enableEmmetSupport": true,
+  "emmet.useInlineCompletions": true,
+  "emmet.triggerExpansionOnTab": true
+}
